@@ -1,5 +1,7 @@
 # Hello, Filip here
 
+I am computer engineering student
+
 ## My projects
 
 -> [**ToDoApp Kotlin**](https://github.com/ToFifi098/TodoApp-Kotlin)
