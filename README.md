@@ -3,6 +3,9 @@
 I am computer engineering student
 
 ## My projects
+->[**Anti-Fraud system**](https://github.com/ToFifi098/Anti-Fraud-System) 
+
+-> [**Wolf and sheep simulation**](https://github.com/ToFifi098/Wolfs-and-Sheep-simulation)
 
 -> [**F1 Webscraper Flutter**](https://github.com/ToFifi098/F1-schedule-app)
 
